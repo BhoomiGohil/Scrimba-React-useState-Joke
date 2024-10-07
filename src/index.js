@@ -1,8 +1,8 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 
-import MainContent from "./Practice19/MainContent";
-import "./Practice19/Index.css";
+import MainContent from "./js/MainContent";
+import "./styles/Index.css";
 
 // ------------------------------------- Render Elements on browser -------------------------------------
 
